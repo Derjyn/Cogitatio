@@ -128,3 +128,8 @@ I give this plugin two :+1:!
 {% octicon mute 									height:48 %}
 {% octicon no-newline 						height:48 %}
 {% octicon octoface 							height:48 %}
+{% octicon organization 					height:48 %}
+{% octicon package 								height:48 %}
+{% octicon paintcan 							height:48 %}
+{% octicon pencil 								height:48 %}
+{% octicon person 								height:48 %}
