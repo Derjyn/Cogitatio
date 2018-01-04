@@ -96,4 +96,6 @@ I give this plugin two :+1:!
 {% octicon home 									height:48 %}
 {% octicon horizontal-rule 				height:48 %}
 {% octicon hubot 									height:48 %}
-
+{% octicon inbox 									height:48 %}
+{% octicon info 									height:48 %}
+{% octicon issue-closed 					height:48 %}
