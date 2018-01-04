@@ -96,14 +96,4 @@ I give this plugin two :+1:!
 {% octicon home 									height:48 %}
 {% octicon horizontal-rule 				height:48 %}
 {% octicon hubot 									height:48 %}
-{% octicon inbox 									height:48 %}
-{% octicon info 									height:48 %}
-{% octicon issue-closed 					height:48 %}
-{% octicon issue-opened 					height:48 %}
-{% octicon issue-reopened 				height:48 %}
-{% octicon italic 								height:48 %}
-{% octicon jersey 								height:48 %}
-{% octicon kebab-horizontal 			height:48 %}
-{% octicon kebab-vertical 				height:48 %}
-{% octicon key 										height:48 %}
-{% octicon keyboard 							height:48 %}
+
