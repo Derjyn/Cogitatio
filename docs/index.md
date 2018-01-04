@@ -8,6 +8,7 @@ layout: default
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
 I give this plugin two :+1:!
+
 {% octicon alert height:32 class:"right left" aria-label:hi %}
 
 <!--
