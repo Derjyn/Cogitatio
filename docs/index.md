@@ -85,3 +85,14 @@ I give this plugin two :+1:!
 {% octicon gist-secret 						height:48 %}
 {% octicon git-branch 						height:48 %}
 {% octicon git-commit 						height:48 %}
+
+{% octicon git-compare 						height:48 %}
+{% octicon git-merge 							height:48 %}
+{% octicon git-pull-request 			height:48 %}
+{% octicon globe 									height:48 %}
+{% octicon grabber 								height:48 %}
+{% octicon graph 									height:48 %}
+{% octicon heart 									height:48 %}
+{% octicon history 								height:48 %}
+{% octicon home 									height:48 %}
+{% octicon horizontal-rule 				height:48 %}
