@@ -5,10 +5,10 @@
 
 // Octicons minimal CSS
 .octicon {
-  //display: inline-block;
+  display: inline-block;
+  //display: block;
   vertical-align: text-top;
-  fill: currentColor;
-  display: block;
+  fill: currentColor;  
   border: 1px solid #ddd;
   height: 48px;
   width: 48px;
