@@ -5,7 +5,17 @@
 
 // Octicons minimal CSS
 .octicon {
-  display: inline-block;
+  //display: inline-block;
   vertical-align: text-top;
   fill: currentColor;
+  display: block;
+  border: 1px solid #ddd;
+  padding: 17px;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 0;
+  color: #333;
+  outline: none;
 }
