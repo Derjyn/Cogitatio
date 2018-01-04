@@ -99,3 +99,8 @@ I give this plugin two :+1:!
 {% octicon inbox 									height:48 %}
 {% octicon info 									height:48 %}
 {% octicon issue-closed 					height:48 %}
+
+{% octicon issue-opened 					height:48 %}
+{% octicon issue-reopened 				height:48 %}
+{% octicon italic 								height:48 %}
+{% octicon jersey 								height:48 %}
