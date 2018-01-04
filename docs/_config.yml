@@ -1,5 +1,4 @@
 name: Cogitatio
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-octicons
   - jemoji
