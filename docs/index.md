@@ -134,3 +134,4 @@ I give this plugin two :+1:!
 {% octicon pencil 								height:48 %}
 {% octicon person 								height:48 %}
 {% octicon pin 										height:48 %}
+{% octicon plug 									height:48 %}
