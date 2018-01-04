@@ -7,10 +7,12 @@ layout: default
 
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
+-----
+
+### Jemoji
 I give this plugin two :+1:!
 
-{% octicon alert height:32 class:"right left" aria-label:hi %}
+-----
 
-<!--
-You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
--->
+### Octicons
+{% octicon alert height:32 class:"right left" aria-label:hi %}
