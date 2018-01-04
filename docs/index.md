@@ -124,5 +124,5 @@ I give this plugin two :+1:!
 {% octicon mention 								height:48 %}
 {% octicon milestone 							height:48 %}
 {% octicon mirror 								height:48 %}
-
 {% octicon mortar-board 					height:48 %}
+{% octicon mute 									height:48 %}
