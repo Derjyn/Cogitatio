@@ -134,11 +134,3 @@ I give this plugin two :+1:!
 {% octicon pencil 								height:48 %}
 {% octicon person 								height:48 %}
 {% octicon pin 										height:48 %}
-{% octicon plug 									height:48 %}
-{% octicon plus 									height:48 %}
-{% octicon plus-small 						height:48 %}
-{% octicon primitive-dot 					height:48 %}
-{% octicon primitive-square 			height:48 %}
-{% octicon project 								height:48 %}
-{% octicon pulse 									height:48 %}
-{% octicon question 							height:48 %}
