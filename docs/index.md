@@ -103,6 +103,16 @@ I give this plugin two :+1:!
 {% octicon issue-reopened 				height:48 %}
 {% octicon italic 								height:48 %}
 {% octicon jersey 								height:48 %}
-{% octicon kebab-horizontal 			height:48 %}
 {% octicon key 										height:48 %}
 {% octicon keyboard 							height:48 %}
+{% octicon law 										height:48 %}
+{% octicon light-bulb 						height:48 %}
+{% octicon link-external 					height:48 %}
+{% octicon link 									height:48 %}
+{% octicon list-ordered 					height:48 %}
+{% octicon list-unordered 				height:48 %}
+{% octicon location 							height:48 %}
+{% octicon lock 									height:48 %}
+{% octicon logo-gist 							height:48 %}
+{% octicon logo-github 						height:48 %}
+{% octicon mail 									height:48 %}
