@@ -15,4 +15,4 @@ I give this plugin two :+1:!
 -----
 
 ### Octicons
-{% octicon alert height:48 %} {% octicon arrow-down height:48 %}
+{% octicon alert height:48 %} {% octicon arrow-up height:48 %} {% octicon arrow-down height:48 %} {% octicon arrow-left height:48 %} {% octicon arrow-right height:48 %} {% octicon arrow-small-up height:48 %} {% octicon arrow-small-down height:48 %} {% octicon arrow-small-left height:48 %} {% octicon arrow-small-right height:48 %}
