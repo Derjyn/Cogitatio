@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Octicons minimal CSS
+.octicon {
+  display: inline-block;
+  vertical-align: text-top;
+  fill: currentColor;
+}
