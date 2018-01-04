@@ -116,3 +116,12 @@ I give this plugin two :+1:!
 {% octicon logo-gist 							height:48 %}
 {% octicon logo-github 						height:48 %}
 {% octicon mail 									height:48 %}
+{% octicon mail-read 							height:48 %}
+{% octicon mail-reply 						height:48 %}
+{% octicon mark-github 						height:48 %}
+{% octicon markdown 							height:48 %}
+{% octicon megaphone 							height:48 %}
+{% octicon mention 								height:48 %}
+{% octicon milestone 							height:48 %}
+{% octicon mirror 								height:48 %}
+{% octicon mortar-board 					height:48 %}
