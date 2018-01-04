@@ -15,4 +15,4 @@ I give this plugin two :+1:!
 -----
 
 ### Octicons
-{% octicon alert height:32 class:"right left" aria-label:hi %} {% octicon arrow-down height:32 class:"right left" aria-label:hi %}
+{% octicon alert height:48 %} {% octicon arrow-down height:48 %}
