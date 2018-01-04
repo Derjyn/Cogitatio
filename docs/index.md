@@ -127,3 +127,4 @@ I give this plugin two :+1:!
 {% octicon mortar-board 					height:48 %}
 {% octicon mute 									height:48 %}
 {% octicon no-newline 						height:48 %}
+{% octicon note 									height:48 %}
