@@ -217,9 +217,11 @@ nav > ul > li > a:hover {
 section h1 .svg-inline--fa {
   margin-right: 0.5em;
 }
-section h1.overview::before {
+section h1[class*='']::before {
   font-family: "Font Awesome 5 Solid";
-  content: "\f007";
+}
+section h1.overview::before {  
+  content: "\f05a";
 }
 
 //
