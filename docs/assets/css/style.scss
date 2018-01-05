@@ -199,7 +199,10 @@ nav {
   margin-top: 200px;
 }
 nav > ul { list-style-type: none }
-nav > ul > li { display: block }
+nav > ul > li { 
+  display: block;
+  width: 160px;
+}
 nav > ul > li > a {
   color: rgb(64,64,64);
   display: block;
