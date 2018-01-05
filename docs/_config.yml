@@ -2,6 +2,7 @@ name: Cogitatio
 theme: jekyll-theme-minimal
 highlighter: rouge
 plugins:
+  - jekyll-font-awesome-sass
   - jekyll-octicons
   - jemoji
   
