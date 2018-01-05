@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/medela/
 ---
 
-# {{ page.title }}
+<h1 class="fa-h1 medela">{{ page.title }}</h1>
 
 _remedy, health_
 
