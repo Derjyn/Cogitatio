@@ -223,9 +223,17 @@ nav > ul > li > a:hover {
 
 section h1 .svg-inline--fa    { margin-right: 0.75rem; }
 section h1.fa-h1::before      { display:none;font-family:"Font Awesome 5 Solid";font-weight:900; }
-section h1.home::before       { content:"\f015"; }
-section h1.overview::before   { content:"\f05a"; }
-section h1.dump::before       { content:"\f1f8"; }
+section h1.home::before       { content:"\f015" }
+section h1.overview::before   { content:"\f05a" }
+section h1.dump::before       { content:"\f1f8" }
+section h1.aer::before        { content:"\f017" }
+section h1.auxilium::before   { content:"\f017" }
+section h1.capsa::before      { content:"\f017" }
+section h1.fera::before       { content:"\f017" }
+section h1.hora::before       { content:"\f017" }
+section h1.medela::before     { content:"\f017" }
+section h1.rector::before     { content:"\f017" }
+section h1.sensus::before     { content:"\f017" }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
 // Jemoji
