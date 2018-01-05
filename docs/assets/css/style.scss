@@ -274,8 +274,23 @@ footer {
   }
 }
 
+//
+// Custom
+//
 
+.side-menu {
+  border: 0;
+  border-radius: 0;
+  display: inline-block;
+}
+
+.side-menu li {
+}
+
+//
 // Jemoji
+//
+
 .emoji {
   display: inline-block;
   height: 28px;
@@ -283,7 +298,10 @@ footer {
   margin: 2px;
 }
 
+//
 // Octicons
+//
+
 .octicon {
   display: inline-block;
   //display: block;
