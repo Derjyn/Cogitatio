@@ -151,11 +151,4 @@ I give this plugin two :+1:!
 {% octicon repo-push %}
 
 {% octicon rocket %}
-{% octicon rss %}
-{% octicon ruby %}
-{% octicon screen-full %}
-{% octicon screen-normal %}
-{% octicon search %}
-{% octicon server %}
-{% octicon settings %}
-{% octicon shield %}
+
