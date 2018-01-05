@@ -203,10 +203,11 @@ p {
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
   /* desired capital height and line-height */
-  --capital-height: 14;
-  --line-height: 1;
+  --capital-height: 12;
+  --line-height: 2;
 
   font-family: var(--font);
+  font-weight: 400;
   font-size: calc(var(--computedFontSize) * 1px);
   line-height: calc(var(--computedLineheight) * 1px);
 }
