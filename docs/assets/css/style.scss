@@ -222,7 +222,7 @@ nav > ul > li > a:hover {
 }
 
 section h1.svg-inline--fa     { margin-right: 0.25em; }
-section h1[class*='']::before { display: none; font-family: "Font Awesome 5 Solid"; }
+section h1.fa-h1::before      { display:none;font-family:"Font Awesome 5 Solid";font-weight:900; }
 section h1.home::before       { content:"\f015"; }
 section h1.overview::before   { content:"\f05a"; }
 section h1.dump::before       { content:"\f05a"; }
