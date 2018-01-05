@@ -1,7 +1,6 @@
 ---
 title: Overview
 layout: default
-permalink: /overview/
 ---
 
 # {{ page.title }}
