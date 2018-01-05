@@ -3,7 +3,7 @@ title: Dump
 layout: default
 ---
 
-# {{ page.title }}
+<h1 class="dump">{{ page.title }}</h1>
 
 This page serves as a dumping ground or cheatsheet for various Markdown bits and Jekyll magick. Note that page load might 
 be a little _sloooow_.
