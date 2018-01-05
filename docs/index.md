@@ -139,6 +139,5 @@ I give this plugin two :+1:!
 {% octicon plus-small %}
 {% octicon primitive-dot %}
 {% octicon primitive-square %}
-{% octicon project %}
 {% octicon question %}
 
