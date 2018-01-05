@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/hora/
 ---
 
-<small class="ion-clock" data-pack="default" style="display: inline-block;"></small><h1>{{ page.title }}</h1>
+<h1>{{ page.title }}</h1>
 
 _hour, time, season_
 
