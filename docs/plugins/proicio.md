@@ -8,6 +8,6 @@ permalink: /plugins/proicio/
 
 _throw, hurl, fling_
 
-Proicio is an advanced ballistics system.
+Proicio is an advanced ballistics plugin.
 
 -----
