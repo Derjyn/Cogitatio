@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/sensus/
 ---
 
-# {{ page.title }}
+<h1 class="fa-h1 sensus">{{ page.title }}</h1>
 
 _feeling, thought, disposition_
 
