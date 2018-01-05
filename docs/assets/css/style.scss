@@ -278,22 +278,23 @@ footer {
 // Custom
 //
 
-.side-menu, .side-menu li {
+.side-menu {
   background: none;
   border: 0;
-  border-radius: 0;
-  display: block;
-  text-align: left !important;
+  border-radius: 0; 
 }
 
 .side-menu li {
   border-radius: 0;
   border-right:0;
   color: #999;
+  display: block;
+  float: left;
   font-size: 12px;
   height:30px;
   line-height: 1;
   padding-top:2px;
+  text-align: left !important;
 }
 
 //
