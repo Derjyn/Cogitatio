@@ -50,7 +50,6 @@ hr {
 
 // I don't fuggin' know
 
-/* font metrics */
 p {
   --font: Catamaran;
   --fm-emSquare: 1;
@@ -59,7 +58,6 @@ p {
   --fm-ascender: 1.1;
   --fm-linegap: 0;
 
-  /* compute needed values */
   --lineheightNormal: (var(--fm-ascender) + var(--fm-descender) + var(--fm-linegap));
   --distanceBottom: (var(--fm-descender));
   --distanceTop: (var(--fm-ascender) - var(--fm-capitalHeight));
@@ -68,13 +66,13 @@ p {
   --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
-  /* desired capital height and line-height */
   --capital-height: 12;
   --line-height: 1;
 
   font-family: var(--font);
   font-size: calc(var(--computedFontSize) * 1px);
   line-height: calc(var(--computedLineheight) * 1px);
+  vertical-align: calc(var(--valign) * -1px);
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
