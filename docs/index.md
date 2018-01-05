@@ -165,7 +165,6 @@ I give this plugin two :+1:!
 {% octicon sync %}
 {% octicon tag %}
 {% octicon tasklist %}
-
 {% octicon telescope %}
 {% octicon terminal %}
 {% octicon text-size %}
@@ -175,3 +174,15 @@ I give this plugin two :+1:!
 {% octicon tools %}
 {% octicon trashcan %}
 {% octicon triangle-down %}
+
+{% octicon triangle-left %}
+{% octicon triangle-right %}
+{% octicon triangle-up %}
+{% octicon unfold %}
+{% octicon unmute %}
+{% octicon unverified %}
+{% octicon verified %}
+{% octicon versions %}
+{% octicon watch %}
+{% octicon x %}
+{% octicon zap %}
