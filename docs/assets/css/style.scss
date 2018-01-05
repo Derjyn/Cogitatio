@@ -233,7 +233,8 @@ nav > ul > li > a:hover {
 nav > ul > li > .octicon {
   border: 0;
   border-radius: 0;
-  display: inline;
+  display: block;
+  float: left;
   height: 24px;  
   margin-right: 4px;
   padding: 0;
