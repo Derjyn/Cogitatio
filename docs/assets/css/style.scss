@@ -217,9 +217,9 @@ nav > ul > li > a:hover {
 // Font Awesome H1s
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
-.fontawesome-i2svg-active body {  display: initial }
+.fontawesome-i2svg-active body { display: initial }
 section h1 .svg-inline--fa    { margin-right: 0.75rem }
-section h1.fa-h1::before      { display:none;font-family:"Font Awesome 5 Solid";font-weight:900;font-size:2.5rem; }
+section h1.fa-h1::before      { display:none;font-family:"Font Awesome 5 Solid";font-weight:900;font-size:4.5rem; }
 
 section h1.home::before       { content:"\f0eb" }
 section h1.overview::before   { content:"\f05a" }
