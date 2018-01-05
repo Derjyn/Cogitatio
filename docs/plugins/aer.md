@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/aer/
 ---
 
-# {{ page.title }}
+<h1 class="fa-h1 aer">{{ page.title }}</h1>
 
 _air, climate, atmosphere_
 
