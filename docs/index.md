@@ -140,5 +140,5 @@ I give this plugin two :+1:!
 {% octicon primitive-dot %}
 {% octicon primitive-square %}
 {% octicon project %}
-{% octicon pulse %}
+{% octicon question %}
 
