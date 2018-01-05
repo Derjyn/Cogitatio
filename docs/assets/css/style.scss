@@ -288,8 +288,8 @@ footer {
 //
 
 nav {
-  border-radius: 4px;
-  box-shadow: 0 0 10px rgba(0,0,0,.15);
+  //border-radius: 4px;
+  //box-shadow: 0 0 10px rgba(0,0,0,.15);
   overflow: hidden;
   text-align: left;
 }
@@ -343,7 +343,6 @@ nav > ul > li > a:hover {
 
 .octicon {
   display: inline-block;
-  //display: block;
   vertical-align: text-top;
   fill: currentColor;  
   border: 1px solid #ddd;
@@ -357,9 +356,6 @@ nav > ul > li > a:hover {
   color: #333;
   outline: none;
 }
-.octicon.octicon-logo-gist {
-  width: 84px;
-}
-.octicon.octicon-logo-github {
-  width: 150px;
-}
+.octicon.octicon-logo-gist { width: 84px }
+.octicon.octicon-logo-github { width: 150px }
+
