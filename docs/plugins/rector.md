@@ -1,6 +1,7 @@
 ---
 title: Rector
 layout: default
+permalink: /rector/
 ---
 
 # {{ page.title }}
