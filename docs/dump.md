@@ -1,6 +1,7 @@
 ---
 title: Dump
 layout: default
+permalink: /dump/
 ---
 
 <h1 class="fa-h1 dump">{{ page.title }}</h1>
