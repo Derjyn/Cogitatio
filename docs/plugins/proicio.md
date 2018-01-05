@@ -8,6 +8,6 @@ permalink: /plugins/proicio/
 
 _throw, hurl, fling_
 
-Proicio is an advanced ballistics plugin.
+Proicio is an advanced ballistics plugin. Projectiles can be defined, with several variable settings that will control their velocity, penetration, ricochet, and many other characteristics. A ton of research went into real-world ballistics maths and traits, and work is being done to approximate a lot of it down into more performance-friendly functionality. 
 
 -----
