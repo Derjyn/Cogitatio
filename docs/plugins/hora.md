@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/hora/
 ---
 
-<i class="fas fa-clockfa-2x"></i> <h1>{{ page.title }}</h1>
+<i class="fas fa-clock fa-fw fa-2x"></i> <h1>{{ page.title }}</h1>
 
 _hour, time, season_
 
