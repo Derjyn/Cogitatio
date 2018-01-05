@@ -21,19 +21,16 @@ body {
   width:860px;
   margin:0 auto;
 }
-
 header {
   width:270px;
   float:left;
   position:fixed;
 }
-
 section {
   width:500px;
   float:right;
   padding-bottom:50px;
 }
-
 footer {
   width:270px;
   float:left;
@@ -80,17 +77,6 @@ h1,h2,h3 {
   
   font-size: calc(var(--computedFontSize) * 1px);
   font-weight: 700;
-  line-height: calc(var(--computedLineheight) * 1px);
-  vertical-align: calc(var(--valign) * -1px);
-}
-
-p {
-  --capital-height: 14;
-  --line-height: 1;
-
-  font-family: var(--font);  
-  font-size: calc(var(--computedFontSize) * 1px);
-  font-weight: 400;
   line-height: calc(var(--computedLineheight) * 1px);
   vertical-align: calc(var(--valign) * -1px);
 }
