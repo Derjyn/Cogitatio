@@ -149,6 +149,5 @@ I give this plugin two :+1:!
 {% octicon repo %}
 {% octicon repo-pull %}
 {% octicon repo-push %}
-
 {% octicon rocket %}
-
+{% octicon rss %}
