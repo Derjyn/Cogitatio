@@ -283,19 +283,18 @@ footer {
   border: 0;
   border-radius: 0;
   display: block;
+  text-align: left;
 }
-
-.side-menu li {}
 
 .side-menu li {
   border-radius: 0;
-  line-height: 1;
-  font-size: 11px;
-  color: #999;
-  text-align: left;
-  padding-top:2px;
-  height:30px;
   border-right:0;
+  color: #999;
+  font-size: 12px;
+  height:30px;
+  line-height: 1;
+  padding-top:2px;  
+  text-align: left;
   width:200px;
 }
 
