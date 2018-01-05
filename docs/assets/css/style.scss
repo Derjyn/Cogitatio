@@ -288,12 +288,11 @@ footer {
   border-radius: 0;
   border-right:0;
   color: #999;
-  display: block;
-  float: left;
-  font-size: 12px;
-  height:30px;
-  line-height: 1;
-  padding-top:2px;
+  display: block !important;
+  float: left !important;
+  font-size: 12px !important;
+  height:30px !important;
+  padding-top:2px !important;
   text-align: left !important;
 }
 
