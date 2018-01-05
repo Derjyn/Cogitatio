@@ -93,13 +93,12 @@ nav {
 nav > ul { list-style-type: none }
 nav > ul > li { 
   display: block;
+  height: 20px;
   width: 160px;
 }
 nav > ul > li > a {
   color: rgb(64,64,64);
-  display: block;
-  height: 20px;
-  letter-spacing: .15rem;
+  display: block;  
   text-transform: uppercase;
   transition: all .2s ease;
   text-decoration: none;
@@ -107,7 +106,6 @@ nav > ul > li > a {
 }
 nav > ul > li > a:hover {
   cursor: pointer;
-  letter-spacing: .2rem;
   padding-left: 10px;
 }
 
