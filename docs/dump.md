@@ -5,8 +5,8 @@ layout: default
 
 # {{ page.title }}
 
-This page serves as a dumping ground or cheatsheet for the various Markdown bits, and Jekyll magick available. Note that page
-load might be a little slow.
+This page serves as a dumping ground or cheatsheet for various Markdown bits and Jekyll magick. Note that page load might 
+be a little _sloooow_.
 
 -----
 
