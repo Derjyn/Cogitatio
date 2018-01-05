@@ -21,23 +21,16 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color:#222;
+  color:#393939;
   margin:0 0 20px;
 }
 h1,h2,h3 {
-  line-height:1.1;
   text-transform: uppercase;
 }
 h1 {
   font-size:28px;
-  font-weight: 500;
 }
-h2 {
-  color:#393939;
-  font-weight: 500;
-}
-h3,h4,h5,h6 {
-  color:#494949;
+h4,h5,h6 {
   font-weight: 500;
 }
 
@@ -219,14 +212,8 @@ nav > ul > li > a:hover {
   padding-left: 4px;
 }
 
-section h1 {
-  line-height: 64px;
-  margin: 0;
-  padding: 0;
-}
 section h1 .octicon {
   display: inline;
-  line-height: 0;
   margin-left: 0;
 }
 
