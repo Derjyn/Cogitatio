@@ -25,10 +25,11 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0 0 20px;
 }
 h1,h2,h3 {
-  text-transform: uppercase;
+  font-weight: 400;
+  text-transform: uppercase;  
 }
 h1 {
-  font-size:32px;
+  font-size:2em;
 }
 h4,h5,h6 {
   font-weight: 500;
@@ -179,6 +180,40 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+// I don't fuggin' know
+
+/* font metrics */
+p {
+  --font: Catamaran;
+  --fm-emSquare: 1;
+  --fm-capitalHeight: 0.68;
+  --fm-descender: 0.54;
+  --fm-ascender: 1.1;
+  --fm-linegap: 0;
+
+  /* compute needed values */
+  --lineheightNormal: (var(--fm-ascender) + var(--fm-descender) + var(--fm-linegap));
+  --distanceBottom: (var(--fm-descender));
+  --distanceTop: (var(--fm-ascender) - var(--fm-capitalHeight));
+  --contentArea: (var(--lineheightNormal) * var(--computedFontSize));
+  --valign: ((var(--distanceBottom) - var(--distanceTop)) * var(--computedFontSize));  
+  --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
+  --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
+
+  /* desired capital height and line-height */
+  --capital-height: 100;
+  --line-height: 1;
+
+  /* set font family */
+  font-family: var(--font);
+
+  /* set capital height to equal font-size */
+  font-size: calc(var(--computedFontSize) * 1px);
+
+  /* set computed line-height */
+  line-height: calc(var(--computedLineheight) * 1px);
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
