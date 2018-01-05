@@ -222,9 +222,9 @@ nav > ul > li > a:hover {
 }
 
 section h1.svg-inline--fa     { margin-right: 0.25em; }
-section h1.home::before       { font-family: "Font Awesome 5 Solid"; content:"\f015"; }
-section h1.overview::before   { font-family: "Font Awesome 5 Solid"; content:"\f05a"; }
-section h1.dump::before       { font-family: "Font Awesome 5 Solid"; content:"\f05a"; }
+section h1.home:before        { font-family: "Font Awesome 5 Solid"; content:"\f015"; }
+section h1.overview:before    { font-family: "Font Awesome 5 Solid"; content:"\f05a"; }
+section h1.dump:before        { font-family: "Font Awesome 5 Solid"; content:"\f05a"; }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
 // Jemoji
