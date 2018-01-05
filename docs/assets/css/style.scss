@@ -186,7 +186,7 @@ footer {
 
 /* font metrics */
 p {
-  --font: Catamaran;
+  --font: Arial Narrow, Arial, sans-serif;
   --fm-emSquare: 1;
   --fm-capitalHeight: 0.68;
   --fm-descender: 0.54;
@@ -203,16 +203,11 @@ p {
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
   /* desired capital height and line-height */
-  --capital-height: 12;
+  --capital-height: 14;
   --line-height: 1;
 
-  /* set font family */
   font-family: var(--font);
-
-  /* set capital height to equal font-size */
   font-size: calc(var(--computedFontSize) * 1px);
-
-  /* set computed line-height */
   line-height: calc(var(--computedLineheight) * 1px);
 }
 
