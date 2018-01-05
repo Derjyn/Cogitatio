@@ -1,7 +1,7 @@
 ---
 title: Sensus
 layout: default
-permalink: /sensus/
+permalink: /plugins/sensus/
 ---
 
 # {{ page.title }}
