@@ -5,7 +5,6 @@ layout: default
 
 # {{ page.title }}
 
-This is a work-in-progress, but will eventually probably (not, perhaps) be an awesome page for the Cogitatio plugins. Check out
-the [dump](dump.md).
+This is a work-in-progress, but will eventually probably (not, perhaps) be an awesome page for the Cogitatio plugins.
 
 -----
