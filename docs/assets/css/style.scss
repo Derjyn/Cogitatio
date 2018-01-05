@@ -10,10 +10,13 @@
 }
 body {
   background-color: #fff;
+  color: #595959;
+  font-smooth: always;
   display: none;
   padding: 50px;
-  color: #595959;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
+
 .wrapper {
   width:860px;
   margin:0 auto;
@@ -23,7 +26,6 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  //-webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
@@ -32,19 +34,18 @@ section {
   padding-bottom:50px;
 }
 
-hr {
-  border:0;
-  background:#e5e5e5;
-  height:1px;
-  margin:0 0 20px;
-}
-
 footer {
   width:270px;
   float:left;
   position:fixed;
   bottom:50px;
-  //-webkit-font-smoothing:subpixel-antialiased;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
 }
 
 // I don't fuggin' know
