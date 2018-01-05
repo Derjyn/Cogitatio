@@ -156,7 +156,6 @@ I give this plugin two :+1:!
 {% octicon server %}
 {% octicon settings %}
 {% octicon shield %}
-
 {% octicon sign-in %}
 {% octicon sign-out %}
 {% octicon smiley %}
@@ -166,3 +165,13 @@ I give this plugin two :+1:!
 {% octicon sync %}
 {% octicon tag %}
 {% octicon tasklist %}
+
+{% octicon telescope %}
+{% octicon terminal %}
+{% octicon text-size %}
+{% octicon three-bars %}
+{% octicon thumbsdown %}
+{% octicon thumbsup %}
+{% octicon tools %}
+{% octicon trashcan %}
+{% octicon triangle-down %}
