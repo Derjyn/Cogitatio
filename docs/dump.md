@@ -1,6 +1,7 @@
 ---
 title: Dump
 layout: default
+permalink: /dump/
 ---
 
 # {{ page.title }}
