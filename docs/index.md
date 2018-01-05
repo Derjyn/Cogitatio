@@ -10,6 +10,18 @@ Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). P
 -----
 
 ### Rouge
+
+```cpp
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello World" << endl;
+}
+```
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
