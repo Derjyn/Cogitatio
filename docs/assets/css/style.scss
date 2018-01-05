@@ -230,6 +230,14 @@ nav > ul > li > a:hover {
   cursor: pointer;
   letter-spacing: .25rem;
 }
+nav > ul > li > .octicon {
+  border: 0;
+  height: 24px;
+  width: 24px;
+  margin-right: 4px;
+  padding: 0;
+  border-radius: 0;
+}
 
 //
 // Jemoji
