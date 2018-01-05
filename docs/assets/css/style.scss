@@ -216,7 +216,7 @@ nav > ul > li > a:hover {
 // Font Awesome H1s
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
-section h1.svg-inline--fa     { margin-right: 0.25em }
+section h1.svg-inline--fa     { margin-right: 0.25em !important; }
 section h1::before            { font-family: "Font Awesome 5 Solid" !important; }
 section h1.home::before       { content:"\f015"; }
 section h1.overview::before   { content:"\f05a"; }
