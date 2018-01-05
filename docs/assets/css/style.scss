@@ -11,6 +11,7 @@
 body {
   background-color: #fff;
   color: #595959;
+  font-size: 16px;
   font-smooth: always;
   display: none;
   padding: 50px;
@@ -115,11 +116,11 @@ nav > ul > li > a:hover {
 
 .fontawesome-i2svg-active body { display: initial }
 
-section h1 .svg-inline--fa    { margin-right: 10px }
-section h1.fa-h1              { vertical-align: calc(var(--valign) * -1px) }
+section h1 .svg-inline--fa { margin-right: 10px }
+section h1.fa-h1 { vertical-align: calc(var(--valign) * -1px) }
 section h1.fa-h1::before {
-  display:none;
-  font-family:"Font Awesome 5 Solid";  
+  display: none;
+  font-family: "Font Awesome 5 Solid";  
   width: calc(1px * var(--capital-height));
   height: calc(1px * var(--capital-height));
 }
