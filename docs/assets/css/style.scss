@@ -61,7 +61,7 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
   --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
-  --capital-height: 16;
+  --capital-height: 10;
   --line-height: 1;
 
   font-family: var(--font);  
