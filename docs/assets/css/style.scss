@@ -219,14 +219,8 @@ nav > ul > li > a:hover {
   padding-left: 4px;
 }
 
-section h1 {
-  clear: right;
-  display: block;
-  float: left;
-  height: 48px;
-  line-height: 0;
-  padding: 4px;
-  vertical-align: text-top;
+section h1 .octicon {
+  display: inline;
 }
 
 //
