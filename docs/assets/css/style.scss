@@ -48,9 +48,7 @@ hr {
   margin:0 0 20px;
 }
 
-// I don't fuggin' know
-
-p {
+a,p,small,h1,h2,h3,h4,h5,h6 {
   --font: Catamaran;
   --fm-emSquare: 1;
   --fm-capitalHeight: 0.68;
@@ -66,11 +64,33 @@ p {
   --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
-  --capital-height: 12;
+  --capital-height: 16;
   --line-height: 1;
 
-  font-family: var(--font);
+  font-family: var(--font);  
   font-size: calc(var(--computedFontSize) * 1px);
+  font-weight: 400;
+  line-height: calc(var(--computedLineheight) * 1px);
+  vertical-align: calc(var(--valign) * -1px);  
+}
+
+h1,h2,h3 {
+  --capital-height: 20;
+  --line-height: 1;
+  
+  font-size: calc(var(--computedFontSize) * 1px);
+  font-weight: 700;
+  line-height: calc(var(--computedLineheight) * 1px);
+  vertical-align: calc(var(--valign) * -1px);
+}
+
+p {
+  --capital-height: 14;
+  --line-height: 1;
+
+  font-family: var(--font);  
+  font-size: calc(var(--computedFontSize) * 1px);
+  font-weight: 400;
   line-height: calc(var(--computedLineheight) * 1px);
   vertical-align: calc(var(--valign) * -1px);
 }
