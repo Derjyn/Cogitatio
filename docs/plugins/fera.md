@@ -1,7 +1,7 @@
 ---
 title: Fera
 layout: default
-permalink: /fera/
+permalink: /plugins/fera/
 ---
 
 # {{ page.title }}
