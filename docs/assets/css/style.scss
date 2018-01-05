@@ -61,8 +61,8 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
   --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
-  --capital-height: 11;
-  --line-height: 1.1;
+  --capital-height: 10;
+  --line-height: 2;
 
   font-family: var(--font);  
   font-size: calc(var(--computedFontSize) * 1px);
@@ -72,7 +72,7 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
 
 h1,h2,h3 {
   --capital-height: 20;
-  --line-height: 1.1;
+  --line-height: 2;
   
   font-size: calc(var(--computedFontSize) * 1px);
   font-weight: 400;
@@ -117,14 +117,14 @@ nav > ul > li > a:hover {
 
 .fontawesome-i2svg-active body { display: initial }
 
-section h1 .svg-inline--fa    { margin-right:0.25em }
+section h1 .svg-inline--fa    { margin-right: 10px }
+section h1.fa-h1              { vertical-align: calc(var(--valign) * -1px) }
 section h1.fa-h1::before {
   display:none;
   font-family:"Font Awesome 5 Solid";  
   width: calc(1px * var(--capital-height));
   height: calc(1px * var(--capital-height));
 }
-section h1.fa-h1::after       {}
 
 section h1.home::before       { content:"\f0eb" }
 section h1.overview::before   { content:"\f05a" }
