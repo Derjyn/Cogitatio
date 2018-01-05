@@ -1,7 +1,7 @@
 ---
 title: Hora
 layout: default
-permalink: /hora/
+permalink: /plugins/hora/
 ---
 
 <h1>{% octicon clock %} {{ page.title }}</h1>
