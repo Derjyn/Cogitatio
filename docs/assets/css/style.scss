@@ -292,14 +292,15 @@ nav {
   //box-shadow: 0 0 10px rgba(0,0,0,.15);
   display: block;
   float: left;
-  position: relative;
+  position: fixed;
   overflow: hidden;
   text-align: left;
+  margin-top: 200px;
 }
 nav > ul { list-style-type: none }
 nav > ul > li { display: block }
 nav > ul > li > a {
-  color: rgb(255,255,255);
+  color: rgb(64,64,64);
   display: block;
   font-size: 0.75rem;
   font-weight: 500;
