@@ -212,9 +212,14 @@ nav > ul > li > a:hover {
   padding-left: 4px;
 }
 
-section h1 .octicon {
-  display: inline;
-  margin-left: 0;
+// Font Awesome H1s
+
+section h1 .svg-inline--fa {
+  margin-right: 0.5em;
+}
+section h1.overview::before {
+  font-family: "Font Awesome 5 Solid";
+  content: "\f007";
 }
 
 //
