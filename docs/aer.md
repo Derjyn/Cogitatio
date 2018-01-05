@@ -1,4 +1,0 @@
----
-title: Aer
-layout: default
----
