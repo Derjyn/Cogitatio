@@ -1,6 +1,7 @@
 ---
 title: Medela
 layout: default
+permalink: /medela/
 ---
 
 # {{ page.title }}
