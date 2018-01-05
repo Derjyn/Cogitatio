@@ -3,7 +3,7 @@ title: Auxilium
 layout: default
 ---
 
-# {% octicon plug %} {{ page.title }}
+<h1>{% octicon plug %} {{ page.title }}</h1>
 
 ToDo
 
