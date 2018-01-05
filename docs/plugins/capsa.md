@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/capsa/
 ---
 
-# {{ page.title }}
+<h1 class="fa-h1 capsa">{{ page.title }}</h1>
 
 _locker, chest, holder_
 
