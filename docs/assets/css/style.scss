@@ -31,6 +31,7 @@ p, ul, ol, table, pre, dl {
 
 h1, h2, h3 {
   line-height:1.1;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -288,10 +289,6 @@ footer {
 //
 
 nav {
-  //border-radius: 4px;
-  //box-shadow: 0 0 10px rgba(0,0,0,.15);
-  display: block;
-  float: left;
   position: fixed;
   overflow: hidden;
   text-align: left;
@@ -306,7 +303,6 @@ nav > ul > li > a {
   font-weight: 500;
   height: 24px;
   letter-spacing: .5rem;
-  text-shadow: 0 1px 1px rgba(0,0,0,.1);
   text-transform: uppercase;
   transition: all .1s ease;
   text-decoration: none;
