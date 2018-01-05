@@ -1,7 +1,7 @@
 ---
 title: Auxilium
 layout: default
-permalink: /auxilium/
+permalink: /plugins/auxilium/
 ---
 
 <h1>{% octicon plug %} {{ page.title }}</h1>
