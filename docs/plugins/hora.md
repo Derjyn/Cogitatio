@@ -3,7 +3,7 @@ title: Hora
 layout: default
 ---
 
-# {{ page.title }}
+# {% octicon clock %} {{ page.title }}
 
 ToDo
 
