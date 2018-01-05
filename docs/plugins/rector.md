@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/rector/
 ---
 
-# {{ page.title }}
+<h1 class="fa-h1 rector">{{ page.title }}</h1>
 
 _ruler, guide, controller_
 
