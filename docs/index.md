@@ -10,8 +10,8 @@ Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). P
 -----
 
 ### Jemoji
-People
 
+#### People
 :bowtie:
 :smile:
 :laughing:
@@ -147,7 +147,6 @@ People
 :person_with_pouting_face:
 :person_frowning:
 :bow:
-:couplekiss:
 :couple_with_heart:
 :massage:
 :haircut:
@@ -206,8 +205,8 @@ People
 :rage4:
 :suspect:
 :trollface:
-Nature
 
+#### Nature
 :sunny:
 :umbrella:
 :cloud:
@@ -323,8 +322,8 @@ Nature
 :partly_sunny:
 :octocat:
 :squirrel:
-Objects
 
+#### Objects
 :bamboo:
 :gift_heart:
 :dolls:
@@ -585,8 +584,8 @@ Objects
 :eggplant:
 :tomato:
 :corn:
-Places
 
+#### Places
 :house:
 :house_with_garden:
 :school:
@@ -693,8 +692,8 @@ Places
 :gb:
 :uk:
 :de:
-Symbols
 
+#### Symbols
 :one:
 :two:
 :three:
@@ -897,7 +896,6 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-
 
 -----
 
