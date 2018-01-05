@@ -1,3 +1,2 @@
-gem 'jekyll-font-awesome-sass'
 gem 'jekyll-octicons'
 gem 'jemoji'
