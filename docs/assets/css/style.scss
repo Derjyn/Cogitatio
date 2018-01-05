@@ -219,8 +219,12 @@ nav > ul > li > a:hover {
   padding-left: 4px;
 }
 
+section h1 {
+  line-height: 64px;
+}
 section h1 .octicon {
   display: inline;
+  margin-left: 0;
 }
 
 //
