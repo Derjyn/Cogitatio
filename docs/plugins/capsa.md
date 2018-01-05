@@ -1,7 +1,7 @@
 ---
 title: Capsa
 layout: default
-permalink: /capsa/
+permalink: /plugins/capsa/
 ---
 
 # {{ page.title }}
