@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/fera/
 ---
 
-# {{ page.title }}
+<h1 class="fa-h1 fera">{{ page.title }}</h1>
 
 _wild beast, animal_
 
