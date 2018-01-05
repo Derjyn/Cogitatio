@@ -73,11 +73,11 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
 h1,h2,h3 {
   --capital-height: 20;
   --line-height: 2;
-  
-  font-size: calc(var(--computedFontSize) * 1px);
-  font-weight: 400;
-  line-height: calc(var(--computedLineheight) * 1px);
-  vertical-align: calc(var(--valign) * -1px);
+}
+
+footer small {
+  --capital-height: 8;
+  --line-height: 2;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
