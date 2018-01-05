@@ -222,9 +222,9 @@ section h1 svg.svg-inline--fa { width:48px;height:48px; }
 section h1 .svg-inline--fa    { margin-right: 0.75rem }
 section h1.fa-h1::before      { display:none;font-family:"Font Awesome 5 Solid";font-weight:900; }
 
-section h1.home::before       { content:"\f0eb"; font-size: 150%; }
-section h1.overview::before   { content:"\f05a"; font-size: 150%; }
-section h1.dump::before       { content:"\f1f8"; font-size: 150%; }
+section h1.home::before       { content:"\f0eb" }
+section h1.overview::before   { content:"\f05a" }
+section h1.dump::before       { content:"\f1f8" }
 
 section h1.aer::before        { content:"\f185" }
 section h1.auxilium::before   { content:"\f1e6" }
