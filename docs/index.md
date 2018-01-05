@@ -156,3 +156,13 @@ I give this plugin two :+1:!
 {% octicon server %}
 {% octicon settings %}
 {% octicon shield %}
+
+{% octicon sign-in %}
+{% octicon sign-out %}
+{% octicon smiley %}
+{% octicon squirrel %}
+{% octicon star %}
+{% octicon stop %}
+{% octicon sync %}
+{% octicon tag %}
+{% octicon tasklist %}
