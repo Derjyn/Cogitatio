@@ -4,7 +4,7 @@ layout: default
 permalink: /plugins/auxilium/
 ---
 
-<h1>{% octicon plug %} {{ page.title }}</h1>
+<h1 class="fa-h1 auxilium">{{ page.title }}</h1>
 
 _aid, support, resource_
 
