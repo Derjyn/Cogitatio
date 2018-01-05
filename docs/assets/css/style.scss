@@ -203,7 +203,7 @@ p {
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
 
   /* desired capital height and line-height */
-  --capital-height: 100;
+  --capital-height: 12;
   --line-height: 1;
 
   /* set font family */
