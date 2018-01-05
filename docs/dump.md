@@ -1,7 +1,6 @@
 ---
 title: Dump
 layout: default
-permalink: /dump/
 ---
 
 # {{ page.title }}
@@ -11,7 +10,7 @@ be a little _sloooow_.
 
 -----
 
-### Rouge
+## Rouge
 
 ```cpp
 #include<iostream>
@@ -30,9 +29,16 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-### Jemoji
+-----
 
-#### People
+## Font Awesome
+See here for documentation: https://fontawesome.com/get-started/svg-with-js
+
+-----
+
+## Jemoji
+
+### People
 :bowtie:
 :smile:
 :laughing:
@@ -227,7 +233,7 @@ puts markdown.to_html
 :suspect:
 :trollface:
 
-#### Nature
+### Nature
 :sunny:
 :umbrella:
 :cloud:
@@ -344,7 +350,7 @@ puts markdown.to_html
 :octocat:
 :squirrel:
 
-#### Objects
+### Objects
 :bamboo:
 :gift_heart:
 :dolls:
@@ -606,7 +612,7 @@ puts markdown.to_html
 :tomato:
 :corn:
 
-#### Places
+### Places
 :house:
 :house_with_garden:
 :school:
@@ -714,7 +720,7 @@ puts markdown.to_html
 :uk:
 :de:
 
-#### Symbols
+### Symbols
 :one:
 :two:
 :three:
@@ -1080,7 +1086,6 @@ puts markdown.to_html
 {% octicon tools %}
 {% octicon trashcan %}
 {% octicon triangle-down %}
-
 {% octicon triangle-left %}
 {% octicon triangle-right %}
 {% octicon triangle-up %}
