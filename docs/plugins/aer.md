@@ -1,7 +1,7 @@
 ---
 title: Aer
 layout: default
-permalink: /aer/
+permalink: /plugins/aer/
 ---
 
 # {{ page.title }}
