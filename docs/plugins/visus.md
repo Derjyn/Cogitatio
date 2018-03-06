@@ -1,5 +1,5 @@
 ---
-title: Aer
+title: Visus
 layout: default
 permalink: /plugins/visus/
 ---
