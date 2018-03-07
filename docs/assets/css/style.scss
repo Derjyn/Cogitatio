@@ -53,7 +53,6 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
   --fm-descender: 0.54;
   --fm-ascender: 1.1;
   --fm-linegap: 0;
-
   --lineheightNormal: (var(--fm-ascender) + var(--fm-descender) + var(--fm-linegap));
   --distanceBottom: (var(--fm-descender));
   --distanceTop: (var(--fm-ascender) - var(--fm-capitalHeight));
@@ -61,10 +60,8 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
   --valign: ((var(--distanceBottom) - var(--distanceTop)) * var(--computedFontSize));  
   --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
   --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
-
   --capital-height: 10;
   --line-height: 2;
-
   font-family: var(--font);  
   font-size: calc(var(--computedFontSize) * 1px);
   line-height: calc(var(--computedLineheight) * 1px);
@@ -125,8 +122,7 @@ section h1.fa-h1::before {
   height: calc(1px * var(--capital-height));
 }
 
-section h1.home::before       { content:"\f0eb" }
-section h1.overview::before   { content:"\f05a" }
+section h1.home::before       { content:"\f085" }
 section h1.dump::before       { content:"\f1f8" }
 
 section h1.aer::before        { content:"\f185" }
