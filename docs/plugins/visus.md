@@ -8,7 +8,7 @@ permalink: /plugins/visus/
 
 _sight, vision, seeing_
 
-Visus is a camera managment and interaction plugin.  Visum aims to make handling complex camera setups simpler
+Visus is a camera managment and interaction plugin.  Visus aims to make handling complex camera setups simpler
 to maintain, while enabling various effects and techniques commonly found in games and movies.
 
 -----
