@@ -1,7 +1,7 @@
 ---
 title: Sensus
 layout: default
-permalink: /plugins/sensus/
+permalink: /systems/sensus/
 ---
 
 <h1 class="fa-h1 sensus">{{ page.title }}</h1>

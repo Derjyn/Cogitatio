@@ -1,7 +1,7 @@
 ---
 title: Visus
 layout: default
-permalink: /plugins/visus/
+permalink: /systems/visus/
 ---
 
 <h1 class="fa-h1 visus">{{ page.title }}</h1>

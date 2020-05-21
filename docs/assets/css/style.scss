@@ -141,34 +141,5 @@ section h1.tabula::before     { content:"\f14e" }
 section h1.visus::before      { content:"\f03d" }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
-// Jemoji
+// EOF
 //////////////////////////////////////////////////////////////////////////////////////////////////
-
-.emoji {
-  display: inline-block;
-  height: 28px;
-  width: 28px;
-  margin: 2px;
-}
-
-//////////////////////////////////////////////////////////////////////////////////////////////////
-// Octicons
-//////////////////////////////////////////////////////////////////////////////////////////////////
-
-.octicon {
-  display: inline-block;
-  vertical-align: text-top;
-  fill: currentColor;  
-  border: 1px solid #ddd;
-  height: 48px;
-  width: 48px;
-  margin: 4px;
-  padding: 4px;
-  border-radius: 4px;
-  text-align: center;
-  line-height: 0;
-  color: #333;
-  outline: none;
-}
-.octicon.octicon-logo-gist { width: 84px }
-.octicon.octicon-logo-github { width: 150px }

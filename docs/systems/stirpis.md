@@ -1,7 +1,7 @@
 ---
 title: Stirpis
 layout: default
-permalink: /plugins/stirpis/
+permalink: /systems/stirpis/
 ---
 
 <h1 class="fa-h1 stirpis">{{ page.title }}</h1>

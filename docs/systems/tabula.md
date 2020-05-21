@@ -1,7 +1,7 @@
 ---
 title: Tabula
 layout: default
-permalink: /plugins/tabula/
+permalink: /systems/tabula/
 ---
 
 <h1 class="fa-h1 tabula">{{ page.title }}</h1>

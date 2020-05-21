@@ -2,6 +2,3 @@ name: Cogitatio
 theme: jekyll-theme-minimal
 highlighter: rouge
 plugins:
-  - jekyll-octicons
-  - jemoji
-  

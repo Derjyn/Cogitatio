@@ -10,8 +10,14 @@ Below is a list of the plugins currently in the development, followed by a short
 * Fera (concept)
 * Hora (beta)
 * Medela (concept)
+* Proicio (concept)
+* Proprium (concept)
+* Qualitas (concept)
 * Rector (alpha)
 * Sensus (concept)
+* Stirpis (concept)
+* Tabula (concept)
+* Visus (concept)
 
 -----
 
