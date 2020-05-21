@@ -1,7 +1,7 @@
 ---
 title: Qualitas
 layout: default
-permalink: /systems/proprium/
+permalink: /systems/qualitas/
 ---
 
 <h1 class="fa-h1 qualitas">{{ page.title }}</h1>
