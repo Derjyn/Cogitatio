@@ -14,8 +14,8 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #595959;
-  color: #fff;
+  color: rgb(64,64,64);
+  color: rgb(216,216,216);
   font-size: 16px;
   padding: 50px;
 }
@@ -43,8 +43,8 @@ footer {
 
 hr {
   border:0;
-  background:#e5e5e5;
-  height:1px;
+  color: rgb(216,216,216);
+  height:2px;
   margin:0 0 20px;
 }
 
@@ -71,6 +71,7 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
 }
 
 h1,h2,h3 {
+  color: rgb(216,216,216);
   --capital-height: 20;
   --line-height: 2;
 }
@@ -97,13 +98,14 @@ nav > ul > li {
   width: 160px;
 }
 nav > ul > li > a {
-  color: rgb(64,64,64);
+  color: rgb(216,216,216);
   display: block;  
   text-transform: uppercase;
   transition: all .2s ease;
   text-decoration: none;
 }
 nav > ul > li > a:hover {
+  color: rgb(216,96,96);
   cursor: pointer;
   padding-left: 10px;
 }
@@ -115,7 +117,10 @@ nav > ul > li > a:hover {
 .fontawesome-i2svg-active body { display: initial }
 
 section h1 .svg-inline--fa { margin-right: 10px }
-section h1.fa-h1 { vertical-align: calc(var(--valign) * -1px) }
+section h1.fa-h1 {
+  color: rgb(216,216,216);
+  vertical-align: calc(var(--valign) * -1px)
+}
 section h1.fa-h1::before {
   display: none;
   font-family: "Font Awesome 5 Solid";  
