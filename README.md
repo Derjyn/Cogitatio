@@ -13,7 +13,6 @@ Below is a list of the systems currently in the development, followed by a short
 * Proicio (concept)
 * Proprium (concept)
 * Qualitas (concept)
-* Rector (alpha)
 * Sensus (concept)
 * Stirpis (concept)
 * Tabula (alpha)
@@ -23,7 +22,7 @@ Below is a list of the systems currently in the development, followed by a short
 
 ### Setup
 
-A quick setup guide for getting started with Cogitation will go here.
+A quick setup guide for getting started with Cogitatio will go here.
 
 ### Usage
 
