@@ -8,18 +8,17 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 *,*:after,*:before {
-  margin: 0;
-  outline: none;
-  padding: 0;  
-  box-sizing: border-box;
+  margin:0;
+  outline:none;
+  padding:0;  
+  box-sizing:border-box;
 }
 body {
-  background-color: rgb(64,64,64);
-  color: rgb(216,216,216);
-  font-size: 16px;
-  padding: 50px;
+  background-color:rgb(64,64,64);
+  color:rgb(216,216,216);
+  font-size:16px;
+  padding:50px;
 }
-
 .wrapper {
   width:860px;
   margin:0 auto;
@@ -40,38 +39,37 @@ footer {
   position:fixed;
   bottom:50px;
 }
-
 hr {
   border:0;
-  color: rgb(216,216,216);
+  color:rgb(216,216,216);
   height:2px;
   margin:0 0 20px;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
-// Custom font
+// Base typography
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
-  --font: 'Catamaran', sans-serif;
-  --fm-emSquare: 1;
-  --fm-capitalHeight: 0.68;
-  --fm-descender: 0.54;
-  --fm-ascender: 1.1;
-  --fm-linegap: 0;
-  --lineheightNormal: (var(--fm-ascender) + var(--fm-descender) + var(--fm-linegap));
-  --distanceBottom: (var(--fm-descender));
-  --distanceTop: (var(--fm-ascender) - var(--fm-capitalHeight));
-  --contentArea: (var(--lineheightNormal) * var(--computedFontSize));
-  --valign: ((var(--distanceBottom) - var(--distanceTop)) * var(--computedFontSize));  
-  --computedFontSize: (var(--capital-height) / var(--fm-capitalHeight)); 
-  --computedLineheight: ((var(--line-height) * var(--capital-height)) - var(--valign));
-  --capital-height: 10;
-  --line-height: 2;
-  font-family: var(--font);  
-  font-size: calc(var(--computedFontSize) * 1px);
-  line-height: calc(var(--computedLineheight) * 1px);
-  vertical-align: calc(var(--valign) * -1px);  
+  --font:'Catamaran', sans-serif;
+  --fm-emSquare:1;
+  --fm-capitalHeight:0.68;
+  --fm-descender:0.54;
+  --fm-ascender:1.1;
+  --fm-linegap:0;
+  --lineheightNormal:(var(--fm-ascender) + var(--fm-descender) + var(--fm-linegap));
+  --distanceBottom:(var(--fm-descender));
+  --distanceTop:(var(--fm-ascender) - var(--fm-capitalHeight));
+  --contentArea:(var(--lineheightNormal) * var(--computedFontSize));
+  --valign:((var(--distanceBottom) - var(--distanceTop)) * var(--computedFontSize));  
+  --computedFontSize:(var(--capital-height) / var(--fm-capitalHeight)); 
+  --computedLineheight:((var(--line-height) * var(--capital-height)) - var(--valign));
+  --capital-height:10;
+  --line-height:2;
+  font-family:var(--font);  
+  font-size:calc(var(--computedFontSize) * 1px);
+  line-height:calc(var(--computedLineheight) * 1px);
+  vertical-align:calc(var(--valign) * -1px);  
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -79,9 +77,8 @@ a,p,small,h1,h2,h3,h4,h5,h6,ul,li {
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 h1,h2,h3 {
-  color: rgb(216,216,216);
-  --capital-height: 20;
-  --line-height: 2;
+  color:rgb(216,216,216);
+  --capital-height:20;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -89,28 +86,27 @@ h1,h2,h3 {
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 nav {
-  position: fixed;
-  overflow: hidden;
-  text-align: left;
-  margin-top: 240px;
+  position:fixed;
+  overflow:hidden;
+  text-align:left;
+  margin-top:240px;
 }
-nav > ul { list-style-type: none }
+nav > ul { list-style-type:none }
 nav > ul > li { 
-  display: block;
-  height: 20px;
-  width: 160px;
+  display:block;
+  height:20px;
+  width:160px;
 }
 nav > ul > li > a {
-  color: rgb(216,216,216);
-  display: block;  
-  text-transform: uppercase;
-  transition: all .2s ease;
-  text-decoration: none;
+  color:rgb(216,216,216);
+  display:block;  
+  text-transform:uppercase;
+  transition:all .2s ease;
+  text-decoration:none;
 }
 nav > ul > li > a:hover {
-  color: rgb(216,96,96);
-  cursor: pointer;
-  padding-left: 10px;
+  color:rgb(216,96,96);
+  padding-left:10px;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
@@ -118,30 +114,31 @@ nav > ul > li > a:hover {
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 footer a {
-  color: rgb(216,216,216);
-  transition: all .2s ease;
+  color:rgb(216,216,216);
+  --line-height:1.8;
+  transition:all .2s ease;
 }
 footer a:hover {
-  color: rgb(216,96,96);
-  font-weight: bold;
+  color:rgb(216,96,96);
+  font-weight:bold;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
 // Font Awesome H1s
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
-.fontawesome-i2svg-active body { display: initial }
+.fontawesome-i2svg-active body { display:initial }
 
-section h1 .svg-inline--fa { margin-right: 10px }
+section h1 .svg-inline--fa { margin-right:10px }
 section h1.fa-h1 {
-  color: rgb(216,216,216);
-  vertical-align: calc(var(--valign) * -1px)
+  color:rgb(216,216,216);
+  vertical-align:calc(var(--valign) * -1px)
 }
 section h1.fa-h1::before {
-  display: none;
-  font-family: "Font Awesome 5 Solid";  
-  width: calc(1px * var(--capital-height));
-  height: calc(1px * var(--capital-height));
+  display:none;
+  font-family:"Font Awesome 5 Solid";  
+  width:calc(1px * var(--capital-height));
+  height:calc(1px * var(--capital-height));
 }
 
 section h1.home::before       { content:"\f013" }

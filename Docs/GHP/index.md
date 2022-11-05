@@ -12,8 +12,4 @@ introducing helpful features to aid in making games and interactive applications
 capable of operating by themselves, while others can interact with each other to expose more powerful
 functionality.
 
-One of the optional systems, Rector, is a central control panel of sorts for managing higher-level settings
-and interactions between any utilized Cogitatio systems. While not necessary, Rector is intended to be a convenient
-hub for configuring Cogitatio systems.
-
 -----

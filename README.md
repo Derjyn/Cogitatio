@@ -2,7 +2,7 @@
 
 Cogitatio is a suite of systems for Unreal Engine that introduces some commonly found features in games. Some systems are capable of empowering one another, exposing new (or enhancing existing) functionality when present.
 
-Below is a list of the systems currently in the development, followed by a short description of each. You may have noticed that a latin naming scheme was chosen. The rough translation is available in the descriptions for each system. Cogitatio itself roughly translates as "_thought, plan, design_".
+Below is a list of the systems currently in Wdevelopment, followed by a short description of each. You may have noticed that a latin naming scheme was chosen. The rough translation is available in the descriptions for each system. Cogitatio itself roughly translates as "_thought, plan, design_".
 
 * Aer (alpha)
 * Auxilium (concept)

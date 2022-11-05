@@ -116,27 +116,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GameplayInteractions",
-			"Enabled": true
-		},
-		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
 		},
 		{
 			"Name": "StateTree",
-			"Enabled": true
-		},
-		{
-			"Name": "SmartObjects",
-			"Enabled": true
-		},
-		{
-			"Name": "MassEntity",
-			"Enabled": true
-		},
-		{
-			"Name": "MassGameplay",
 			"Enabled": true
 		},
 		{
@@ -161,10 +145,6 @@
 		},
 		{
 			"Name": "DatasmithContent",
-			"Enabled": false
-		},
-		{
-			"Name": "MeshPainting",
 			"Enabled": false
 		},
 		{
@@ -252,10 +232,6 @@
 		},
 		{
 			"Name": "ControlFlows",
-			"Enabled": true
-		},
-		{
-			"Name": "GameplayBehaviorSmartObjects",
 			"Enabled": true
 		},
 		{
@@ -362,14 +338,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebBrowserWidget",
-			"Enabled": true
-		},
-		{
-			"Name": "WebBrowserNativeProxy",
-			"Enabled": true
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
 		},
@@ -378,7 +346,31 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebAPI",
+			"Name": "PhysicsControl",
+			"Enabled": true
+		},
+		{
+			"Name": "HairModelingToolset",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "WaveFunctionCollapse",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "WidgetEditorToolPalette",
 			"Enabled": true
 		}
 	],
